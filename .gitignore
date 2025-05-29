@@ -9,3 +9,4 @@ myenv/
 .env
 *.pem
 *.csv
+File nyc_restaurant_inspections.csv
