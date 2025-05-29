@@ -1,0 +1,10 @@
+# Ignore common Python virtual environment directories
+venv/
+.venv/
+venv1/
+env/
+.env/
+.myenv/
+myenv/
+.env
+*.pem
